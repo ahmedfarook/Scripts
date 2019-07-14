@@ -1,0 +1,1 @@
+get-hotfix -computername FRHDGRP-APMIG10,FRHDGRP-APMIG11,FRHDGRP-APMIG12,FRHDGRP-APMIG20,FRHDGRP-APMIG21,FRHDGRP-APMIG22 |select -Property HotFixID,InstalledOn,CSName | Export-Csv c:\temp\KBlist.csv
