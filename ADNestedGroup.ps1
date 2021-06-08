@@ -1,4 +1,4 @@
-﻿#Created BY P&G raining Institute
+﻿#Created BY P&G training Institute
 
 Function Get-ADNestedGroups 
 { #Function start
